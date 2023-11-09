@@ -1,6 +1,6 @@
 # AI-Programming-with-Python-Nanodegree
 
-This repository contains my submissions for the nanodegree program <a href="[url](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089)"> AI Programming with Python </a> offered by Udacity.
+This repository contains my submissions for the nanodegree program <a href="https://www.udacity.com/course/ai-programming-python-nanodegree--nd089"> AI Programming with Python </a> offered by Udacity.
 
 
 ## Projects
