@@ -3,6 +3,10 @@
 
 <h1>Pre-trained Image Classifier to Identify Dog Breeds </h1></div>
 
+<p>This project was part of the <a href="https://www.udacity.com/course/ai-programming-python-nanodegree--nd089"> AI-Programming with Python Nanodregree </a>by <a href="https://www.udacity.com/"> Udacity.</a>
+
+</p>
+
 ## Description
 
 - Identifying which pet images are of dogs and which pet images aren't of dogs
