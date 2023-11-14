@@ -13,4 +13,5 @@
 
 ## :star2: Result Table
 
-<img src="https://postimg.cc/8Fdhmgm1" alt="logo" width="500" height="400" />
+![Logo](https://i.postimg.cc/s2qwyVBZ/aipnd-intropythonlab-results.png)
+
