@@ -1,7 +1,7 @@
 
 <div align='center'>
 
-<img src='https://github.com/AbdelTID/Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/raw/main/dog_breeds.png' alt="logo" width= height= />
+<img src="https://github.com/AbdelTID/Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/raw/main/dog_breeds.png" alt="logo" width="400" height="400" />
 <h1>Pre-trained Image Classifier to Identify Dog Breeds </h1>
 <p>Identifying which pet images are of dogs and which pet images aren't of dogs </p>
 <p>Classifying the breeds of dogs, for the images that are of dogs</p>
