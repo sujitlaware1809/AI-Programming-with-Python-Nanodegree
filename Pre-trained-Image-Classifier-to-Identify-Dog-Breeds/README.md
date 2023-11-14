@@ -11,4 +11,6 @@
 
 </div>
 
-## :star2: About the Project
+## :star2: Result Table
+
+<img src="[https://github.com/AbdelTID/Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/raw/main/dog_breeds.png](https://video.udacity-data.com/topher/2018/March/5aa84e54_aipnd-intropythonlab-results/aipnd-intropythonlab-results.png)https://video.udacity-data.com/topher/2018/March/5aa84e54_aipnd-intropythonlab-results/aipnd-intropythonlab-results.png" alt="logo" width="500" height="400" />
