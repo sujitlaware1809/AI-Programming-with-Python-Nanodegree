@@ -2,10 +2,12 @@
 <div align='center'>
 
 <h1>Pre-trained Image Classifier to Identify Dog Breeds </h1></div>
-<p>Identifying which pet images are of dogs and which pet images aren't of dogs </p>
-<p>Classifying the breeds of dogs, for the images that are of dogs</p>
+<
+## Description
 
-<h4> <span> · </span> <a href=""> Linkedin </a> <span> · </span> <a href=""> Twitter </a> <span> · </span> <a href=""> Request Feature </a> </h4>
+- Identifying which pet images are of dogs and which pet images aren't of dogs
+
+- Classifying the breeds of dogs, for the images that are of dogs
 
 
 
