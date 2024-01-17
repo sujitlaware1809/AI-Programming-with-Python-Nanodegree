@@ -3,7 +3,7 @@
 This repository contains my submissions for the nanodegree program <a href="https://www.udacity.com/course/ai-programming-python-nanodegree--nd089"> AI Programming with Python </a> offered by <a href="https://www.udacity.com/"> Udacity.</a>
 
 <div align="center">
-<img height="200" src="[https://ibb.co/ypx5QMw](https://i.postimg.cc/nhD3Xnyh/1697567390680.jpg)">
+<img height="200" src="https://i.postimg.cc/nhD3Xnyh/1697567390680.jpg">
 </div>
 
 
