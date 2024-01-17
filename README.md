@@ -2,7 +2,7 @@
 
 This repository contains my submissions for the nanodegree program <a href="https://www.udacity.com/course/ai-programming-python-nanodegree--nd089"> AI Programming with Python </a> offered by <a href="https://www.udacity.com/"> Udacity.</a>
 
-<img align="right" alt="AWS AI/ML Scholar" width="300" src="[[AWS AI/ML Scholar](https://ibb.co/ypx5QMw)">
+<img align="right" alt="AWS AI/ML Scholar" width="300" src="https://ibb.co/ypx5QMw">
 
 
 
