@@ -24,9 +24,9 @@ This repository contains my submissions for the nanodegree program <a href="http
 
 ## Projects
 
-- Pre-trained Image Classifier to Identify Dog Breeds
+- [Pre-trained Image Classifier to Identify Dog Breeds](https://github.com/sujitlaware1809/AI-Programming-with-Python-Nanodegree/tree/main/Pre-trained-Image-Classifier-to-Identify-Dog-Breeds)
 
-- Own Image Classifier
+- [Own Image Classifier](https://github.com/sujitlaware1809/AI-Programming-with-Python-Nanodegree/tree/main/Image%20Classifier%20with%20Pytorch)
 
 
 ## 🔗 Links
